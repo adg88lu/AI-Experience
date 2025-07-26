@@ -584,7 +584,7 @@ Embracing local AI empowers individuals and organizations to harness the transfo
 
 ## References
 
-[1] Local AI Text and Image Generation Backend (User Provided Content) 
+[1] Basic Generation Backend
 
 [2] The Future of Local AI: Trends and Innovations - DockYard. URL: https://dockyard.com/blog/2025/04/17/the-future-of-local-ai-trends-and-innovations
 
