@@ -584,17 +584,31 @@ Embracing local AI empowers individuals and organizations to harness the transfo
 
 ## References
 
-[1] Local AI Text and Image Generation Backend (User Provided Content)
+[1] Local AI Text and Image Generation Backend (User Provided Content) 
+
 [2] The Future of Local AI: Trends and Innovations - DockYard. URL: https://dockyard.com/blog/2025/04/17/the-future-of-local-ai-trends-and-innovations
+
 [3] 2025 and the future of Local AI : r/LocalLLaMA - Reddit. URL: https://www.reddit.com/r/LocalLLaMA/comments/1i1eyl5/2025_and_the_future_of_local_ai/
+
 [4] Top AI Trends to Watch in 2025 - Salesmate. URL: https://www.salesmate.io/blog/latest-ai-trends/
+
 [5] 7 AI Trends for 2025 That Businesses Should Follow - UPTech Team. URL: https://www.uptech.team/blog/ai-trends-2025
+
 [6] The 2025 Toolkit: Best Local AI Models for Privacy and Performance - dev.to. URL: https://dev.to/lightningdev123/top-5-local-llm-tools-and-models-in-2025-47o7
+
 [7] Top 5 Local LLM Tools and Models in 2025 - Pinggy. URL: https://pinggy.io/blog/top_5_local_llm_tools_and_models_2025/
+
 [8] What LLM is everyone using in June 2025? : r/LocalLLaMA - Reddit. URL: https://www.reddit.com/r/LocalLLaMA/comments/1lbd2jy/what_llm_is_everyone_using_in_june_2025/
+
 [9] Ollama vs. vLLM: The Definitive Guide to Local LLM Frameworks in ... - alphabravo.io. URL: https://blog.alphabravo.io/ollama-vs-vllm-the-definitive-guide-to-local-llm-frameworks-in-2025/
+
 [10] Top 10 open source LLMs for 2025 - Instaclustr. URL: https://www.instaclustr.com/education/open-source-ai/top-10-open-source-llms-for-2025/
+
 [11] Model Quantization The Key to Faster Local AI Performance - zenvnriel.nl. URL: https://zenvanriel.nl/ai-engineer-blog/model-quantization-key-to-faster-local-ai-performance/
+
 [12] LLMs Quantization : Tools & Techniques | by Netra Prasad Neupane - Medium. URL: https://netraneupane.medium.com/llms-quantization-tools-techniques-ff6ddeda8b46
+
 [13] Run local AI 5x faster without quality loss - YouTube. URL: https://www.youtube.com/watch?v=nWDPNrlgPRc
+
 [14] Overview of GGUF quantization methods : r/LocalLLaMA - Reddit. URL: https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/
+
